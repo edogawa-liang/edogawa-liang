@@ -34,8 +34,8 @@ I like solving problems from both statistical and machine learning perspectives.
                                                                                                                                     
 ---
 
-🔍 **More projects:**  
-https://github.com/edogawa-liang/Project-Gallery
+🔍 **Explore my portfolio:** ➡️ [Project Gallery](https://github.com/edogawa-liang/Project-Gallery)
+
 
 
 
