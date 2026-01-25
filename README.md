@@ -43,7 +43,7 @@ I like solving problems from both statistical and machine learning perspectives.
 ## Skills
 
 **Statistics & Modeling**  
-Bayesian Inference, Survival Analysis (Cox PH, Kaplan–Meier), Causal Reasoning, Time Series Analysis, Statistical Modeling
+Statistical Methods, Bayesian Inference, Survival Analysis (Cox PH, Kaplan–Meier), Causal Reasoning, Time Series Analysis, Statistical Modeling
 
 **Machine Learning & AI**  
 Supervised Learning (Logistic Regression, SVM, Random Forest, XGBoost/LightGBM), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning (PyTorch), Graph Neural Networks (GNNs), Explainable AI, Generative AI
