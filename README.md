@@ -27,7 +27,7 @@ I like solving problems from both statistical and machine learning perspectives.
 |------|------------|
 | **2023** | Graduated with a B.S. in Statistics, with coursework in mathematics, statistics, programming, and foundations of machine learning and deep learning. |
 | **2023–2024** | Conducted research in AI and machine learning at a Networked AI Lab, working on Graph Neural Networks (GNNs) and exploring Explainable AI (XAI). Also served as a Teaching Assistant and a Statistics Consulting Center Assistant. |
-| **2024** | Published a paper on graph neural networks for social network analysis at an IEEE conference, receiving a Best Paper Honorable Mention. |
+| **2024** | Published an IEEE conference paper on privacy leakage in social networks using GNN explainability, receiving a Best Paper Honorable Mention. |
 | **Summer 2024** | Completed an internship at **United Microelectronics Corporation (UMC)**, developing generative AI–based analytics tools. Contributed to automating factory electricity consumption forecasting, improving prediction accuracy and potentially reducing green power procurement costs by an estimated **€5M per month**. |
 | **2025–2026** | Moved to Sweden to pursue graduate studies in Statistics at **Uppsala University**, focusing on advanced statistical methods and modeling (Bayesian methods, survival analysis, causal reasoning). |
 | **Feb 2026 (Incoming)** | Starting an internship at **Mimr Analytics (Sweden)**. |
