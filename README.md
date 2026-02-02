@@ -18,10 +18,10 @@ I like solving problems from both statistical and machine learning perspectives.
 📧 liangjenh@gmail.com · 🔗 [Let’s connect](https://www.linkedin.com/in/liang-jen-huang/)
 
 
-## 🔍 Portfolio
+## Portfolio
 
 
-➡️ **Explore my work:** [Project Gallery](https://github.com/edogawa-liang/Project-Gallery)
+🔍 **Explore my work:** [Project Gallery](https://github.com/edogawa-liang/Project-Gallery)
 
 I’m building a versatile data science skill set, and my projects span:
 - 📌 Statistical modeling (Bayesian inference, causal inference, survival analysis...)
@@ -29,7 +29,7 @@ I’m building a versatile data science skill set, and my projects span:
 - 📌 Explainable AI & graph neural networks
 
 
-## 🎻 Interests
+## Interests
 Outside of data, I enjoy:
 - 🎼 Classical music & orchestra (currently playing euphonium in *Hornboskapen* 🎺)
 - ☕ Fika, 🥂 Gasque
