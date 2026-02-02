@@ -40,5 +40,5 @@ Outside of data, I enjoy:
 
 
 <p align="center">
-  <img src="img/interest.png" width="800" />
+  <img src="img/interest.png" width="820" />
 </p>
