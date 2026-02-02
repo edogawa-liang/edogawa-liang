@@ -1,6 +1,6 @@
 # Hi! Hej 👋 I’m LiangJen
 
-_Last updated: 2026-02-01_
+_Last updated: 2026-02-02_
 
 
 I’m Liang-Jen Huang (黃亮臻) from Taiwan 🇹🇼, currently based in Uppsala, Sweden 🇸🇪.
