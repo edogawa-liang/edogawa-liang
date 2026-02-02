@@ -31,8 +31,8 @@ I’m building a versatile data science skill set, and my projects span:
 
 ## 🎻 Interests
 Outside of data, I enjoy:
-- 🎼 Classical music & orchestra (playing euphonium in *Hornboskapen* 🎺)
-- ☕ Fika, 🥂 Gasque!
+- 🎼 Classical music & orchestra (currently playing euphonium in *Hornboskapen* 🎺)
+- ☕ Fika, 🥂 Gasque
 - 🌲 Nature (forests, hiking, mushroom & berry picking 🍄🍄‍🟫🫐)
 - ✈️ Traveling
 - ⚾ Baseball, 🏐 Volleyball
@@ -40,5 +40,5 @@ Outside of data, I enjoy:
 
 
 <p align="center">
-  <img src="assets/banner.jpg" width="900" />
+  <img src="img/interest.png" width="700" />
 </p>
