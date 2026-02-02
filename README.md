@@ -35,7 +35,7 @@ Outside of data, I enjoy:
 - ☕ Fika, 🥂 Gasque
 - 🌲 Nature (forests, hiking, mushroom & berry picking 🍄🍄‍🟫🫐)
 - ✈️ Traveling
-- ⚾ Baseball, 🏐 Volleyball
+- 🏐 Volleyball, ⚾ Baseball, 
 
 
 
